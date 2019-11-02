@@ -64,6 +64,7 @@
 					||	skel.vars.mobile)
 						settings.parallax = false;
 
+				settings.parallax = false;
 				if (settings.parallax) {
 
 					skel.on('change', function() {

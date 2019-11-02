@@ -1,8 +1,16 @@
+- name: Github
+  link: 'https://www.github.com/EdTonatto'
+  social_icon: github
+  new_window: true
+- name: Linkedin
+  link: 'https://www.linkedin.com/in/eduardo-tonatto-9a327b171/'
+  social_icon: Linkedin
+  new_window: true
 - name: Facebook
-  link: 'https://www.facebook.com/comfusionllc'
+  link: 'https://www.facebook.com/edtonatto'
   social_icon: Facebook
   new_window: true
-- name: RSS
-  link: '/feed.xml'
-  social_icon: RSS
+- name: Instagram
+  link: 'https://www.instagram.com/eduardo_tonatto'
+  social_icon: Instagram
   new_window: true
