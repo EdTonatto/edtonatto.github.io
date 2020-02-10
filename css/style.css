@@ -100,10 +100,19 @@ a:active {
           padding: 0.5rem;
       }
       #sideNav .navbar-brand .img-profile {
-          max-width: 10rem;
-          max-height: 10rem;
-          border: 0.5rem solid rgba(255, 255, 255, 0.2);
+          max-width: 18rem;
+          max-height: 18rem;
+          border-radius: 30%;
+          border: 0.5rem solid rgba(255, 255, 255, 0.3);
+          display: block;
       }
+
+      #sideNav .navbar-brand .img-profile-name{
+          font-weight: 700;
+          font-size: 25px;
+          text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .3);
+      }
+
       #sideNav .navbar-collapse {
           display: flex;
           align-items: flex-start;
@@ -441,6 +450,10 @@ a:active {
     /*text-transform: uppercase;*/
     font-weight: 300;
     margin-top: 0;
+}
+
+.devicon{
+    font-size: 5rem;
 }
 
 /*====================================================
