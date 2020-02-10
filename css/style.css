@@ -423,12 +423,13 @@ a:active {
   font-family: "hind", sans-serif;
   font-size: 35px;
   margin-bottom: 40px;
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
 }
 
 .skill-item {
     padding: 20px 0;
     margin-bottom: 30px;
-    background: rgba(144, 144, 144, 0.78);
+    background: rgba(103, 111, 116, 0.78);
 }
 
 .skill-item i {
