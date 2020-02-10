@@ -36,7 +36,7 @@ h2 {
 }
 
 a {
-    color: #2196f3;
+    color: #00457e;
 }
 
 a:hover,
@@ -60,7 +60,7 @@ a:active {
   }
 
   .list-social-icons a:hover {
-      color: #2196f3;
+      color: #00457e;
   }
 
   .list-social-icons a .fa-lg {
@@ -72,7 +72,7 @@ a:active {
   }
 
   .list-icons .list-inline-item i:hover {
-      color: #2196f3;
+      color: #00457e;
   }
 
 /*==================================================
@@ -139,26 +139,26 @@ a:active {
 }
 
 .btn-white {
-    border-color: #2196f3;
-    background-color: #2196f3;
+    border-color: #00457e;
+    background-color: #00457e;
     color: #fff;
 }
 
 .btn-white:hover,
 .btn-white:focus {
     background-color: transparent;
-    color: #2196f3;
+    color: #00457e;
     cursor: pointer;
 }
 
 .btn-green {
-    border-color: #2196f3;
-    color: #2196f3;
+    border-color: #00457e;
+    color: #00457e;
 }
 
 .btn-green:hover,
 .btn-green:focus {
-    background-color: #2196f3;
+    background-color: #00457e;
     color: #fff;
     cursor: pointer;
 }
@@ -169,7 +169,7 @@ a:active {
   .heading-border {
       width: 60px;
       height: 10px;
-      background-color: #2196f3;
+      background-color: #00457e;
       margin: 0 auto 20px auto;
   }
 
@@ -200,11 +200,11 @@ a:active {
   }
 
   .bg-primary {
-      background-color: #2196f3 !important;
+      background-color: #00457e !important;
   }
 
   .text-primary {
-      color: #2196f3 !important;
+      color: #00457e !important;
   }
 
 /*==================================================
@@ -212,7 +212,7 @@ a:active {
 ====================================================*/
   #about {
       background-image: url(../img/bg.jpg); 
-      color: #fff
+      color: #fff;
       text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
       background: linear-gradient(to bottom, rgba(92, 77, 66, 0.2) 0%, rgba(92, 77, 66, 0.2) 100%), url("../img/bg.jpg") center center no-repeat fixed;
       background-size: cover;
@@ -402,9 +402,8 @@ a:active {
 
 #skills {
     background-image: url("../img/bg-stats.jpg");
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.2) 0%, rgba(92, 77, 66, 0.2) 100%), url("../img/bg-stats.jpg") center center no-repeat fixed;
     background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
 }
 
 .skill-cover {
@@ -424,7 +423,7 @@ a:active {
 }
 
 .skill-item i {
-    color: #2196f3;
+    color: #00457e;
 }
 
 .skill-item h2 {
