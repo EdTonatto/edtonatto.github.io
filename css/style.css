@@ -71,10 +71,15 @@ a:active {
       font-size: 3rem;
   }
 
-  .list-icons .list-inline-item i:hover {
-      color: #00457e;
+  .list-inline-item i:hover {
+      color: #000000;
   }
 
+  .list-inline-item{
+      background-color: #013866;
+      border: 0.1rem solid rgba(255, 255, 255, 0.3);
+      border-radius: 40%;
+  }
 /*==================================================
                     NAV-BAR
 ====================================================*/
@@ -99,11 +104,12 @@ a:active {
           margin: auto auto 0;
           padding: 0.5rem;
       }
+
       #sideNav .navbar-brand .img-profile {
           max-width: 18rem;
           max-height: 18rem;
           border-radius: 30%;
-          border: 0.5rem solid rgba(255, 255, 255, 0.3);
+          border: 0.3rem solid rgba(255, 255, 255, 0.3);
           display: block;
       }
 
