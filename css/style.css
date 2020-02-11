@@ -80,6 +80,11 @@ a:active {
       border: 0.1rem solid rgba(255, 255, 255, 0.3);
       border-radius: 40%;
   }
+  
+  .list-social-icons li:hover{
+    background-color: #00325c;
+    border-color: #000000;
+  }
 /*==================================================
                     NAV-BAR
 ====================================================*/
@@ -136,6 +141,10 @@ a:active {
       #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
           display: block;
       }
+
+      .list-social-icons{
+        margin-top: 2rem;
+    }
   }
 
 /*==================================================
