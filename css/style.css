@@ -193,6 +193,7 @@ a:active {
   .heading-border {
       width: 60px;
       height: 10px;
+      background-image: linear-gradient(to right, #023d6d , #00457e);
       background-color: #00457e;
       margin: 0 auto 20px auto;
   }
@@ -224,6 +225,7 @@ a:active {
   }
 
   .bg-primary {
+      background-image: linear-gradient(to right, #023d6d , #00457e);
       background-color: #00457e !important;
   }
 
